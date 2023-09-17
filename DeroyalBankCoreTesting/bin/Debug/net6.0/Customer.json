@@ -1,0 +1,44 @@
+{
+  "123456": {
+    "numberOfAccounts": 1,
+    "firstname": "fname",
+    "lastname": "lname",
+    "phoneNumber": "phone",
+    "email": "email",
+    "accountNumber": "123456",
+    "accountType": 0,
+    "password": "password",
+    "note": null,
+    "Transactions": [],
+    "NumberOfAccounts": 1,
+    "balance": 0.0
+  },
+  "1234567890": {
+    "numberOfAccounts": 1,
+    "firstname": "Ifeanyi",
+    "lastname": "Okeke",
+    "phoneNumber": "08160417161",
+    "email": "ifeanyi@gmail.com",
+    "accountNumber": "1234567890",
+    "accountType": 0,
+    "password": "P@ssword",
+    "note": null,
+    "Transactions": [],
+    "NumberOfAccounts": 1,
+    "balance": 0.0
+  },
+  "account1": {
+    "numberOfAccounts": 1,
+    "firstname": "fname",
+    "lastname": "lname",
+    "phoneNumber": "phone",
+    "email": "existing@example.com",
+    "accountNumber": "account1",
+    "accountType": 0,
+    "password": "password",
+    "note": null,
+    "Transactions": [],
+    "NumberOfAccounts": 1,
+    "balance": 0.0
+  }
+}

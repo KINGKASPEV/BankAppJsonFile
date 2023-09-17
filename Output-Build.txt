@@ -1,0 +1,13 @@
+﻿Build started...
+1>------ Build started: Project: DeroyalBank.Model, Configuration: Debug Any CPU ------
+1>  DeroyalBank.Model -> C:\Users\user\Desktop\week-4-task-KINGKASPEV\Common\bin\Debug\Common.dll
+2>------ Build started: Project: DeroyalBank.Data, Configuration: Debug Any CPU ------
+2>  DeroyalBank.Data -> C:\Users\user\Desktop\week-4-task-KINGKASPEV\BankAppProject.Data\bin\Debug\BankAppProject.Data.dll
+3>------ Build started: Project: DeroyalBank.Core, Configuration: Debug Any CPU ------
+3>C:\Users\user\Desktop\week-4-task-KINGKASPEV\BankAppProject.Core\Transactions\Transactions.cs(15,24,15,28): warning CS0649: Field 'Transactions.note' is never assigned to, and will always have its default value null
+3>  DeroyalBank.Core -> C:\Users\user\Desktop\week-4-task-KINGKASPEV\BankAppProject.Core\bin\Debug\BankAppProject.Core.dll
+4>------ Build started: Project: DeroyalBankUI, Configuration: Debug Any CPU ------
+4>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+4>DeroyalBankUI -> C:\Users\user\Desktop\week-4-task-KINGKASPEV\DeroyalBankUI\bin\Debug\net6.0\DeroyalBankUI.dll
+========== Build: 4 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 6:27 PM and took 02.720 seconds ==========
